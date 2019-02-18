@@ -3,15 +3,15 @@
 ## Resources
 In order to assist you during the Labs, make sure you leverage the following **Cheat Sheets** (source [https://www.datacamp.com/community/data-science-cheatsheets](https://www.datacamp.com/community/data-science-cheatsheets))
 
-+ Python for beginners: [](Resources/Python_CS.pdf)
-+ Jupyter Notebook: [](Resources/JupyterNotebook_CS.pdf)
-+ Pandas data frame: [](Resources/Pandas_CS.pdf)
-+ Importing data: [](Resources/ImportingData.pdf)
-+ Numpy: [](Resources/NumPy_CS.pdf)
-+ SciPy: [](Resources/SciPy_CS.pdf)
-+ Visualization using Matplotlib: [](Resources/Matplotlib_CS.pdf)
-+ Visualization using Seaborn: [](Resources/Seaborn_CS.pdf)
-+ Visualization using Bokeh: [](Resources/Bokeh_CS.pdf)
++ Python for beginners: [Python_CS.pdf](Resources/Python_CS.pdf)
++ Jupyter Notebook: [JupyterNotebook_CS.pdf](Resources/JupyterNotebook_CS.pdf)
++ Pandas data frame: [Pandas_CS.pdf](Resources/Pandas_CS.pdf)
++ Importing data: [ImportingData.pdf](Resources/ImportingData.pdf)
++ Numpy: [NumPy_CS.pdf](Resources/NumPy_CS.pdf)
++ SciPy: [SciPy_CS.pdf](Resources/SciPy_CS.pdf)
++ Visualization using Matplotlib: [Matplotlib_CS.pdf](Resources/Matplotlib_CS.pdf)
++ Visualization using Seaborn: [Seaborn_CS.pdf](Resources/Seaborn_CS.pdf)
++ Visualization using Bokeh: [Bokeh_CS.pdf](Resources/Bokeh_CS.pdf)
 
 ### Kaggle
 
